@@ -64,6 +64,4 @@ class MainActivity : AppCompatActivity() {
             textView.text = advice
         }
     }
-
-
 }
